@@ -1,0 +1,16 @@
+.app {
+  text-align: center;
+  margin: 20px;
+  background-color: chocolate;
+  color: white;
+}
+.button {
+  border-color: #482205;
+  margin: 5px;
+  background-color: saddlebrown;
+  color: white;
+}
+.counter {
+  background-color: saddlebrown;
+
+}
